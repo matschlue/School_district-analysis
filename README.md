@@ -4,7 +4,13 @@ This analysis deals with the potential academic dishonesty in a specific school.
 
 ## How is the district summary affected?
 
-![Alt text](Resources/original_district_summary.png "Image")
+- Original District Summary
+![Alt text](/original_district_summary.png "Image")
+
+- Updated District Summary
+![Alt text](/updated_district_summary.png "Image")
+
+As seen in the district summaries, the scores do not significanlty change. There are deviations of max 0.3%. 
 
 ## How is the school summary affected?
 
