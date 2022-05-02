@@ -4,7 +4,7 @@ This analysis deals with the potential academic dishonesty in a specific school.
 
 ## How is the district summary affected?
 
-![Alt text](/original_district_summary.png "Image")
+![Alt text](Resources/original_district_summary.png "Image")
 
 ## How is the school summary affected?
 
